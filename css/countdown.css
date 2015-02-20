@@ -22,7 +22,7 @@ body{
 	text-decoration: none;
 	background-image: url(http://250.brown.edu/sites/main-dev/files/styles/timeline_900_auto/public/250_kp0047.jpg?itok=rJeP-3OZ);
     background-color:gray;
-	padding:4.6em 1.1em; 
+	padding:4.05em 1.1em; 
 	text-align: center;
 	box-sizing: border-box;
 	background-size: cover;
@@ -172,12 +172,12 @@ a {
 #form {
   position: absolute;
   float:right;
-  bottom: 3%;
+  bottom: 5%;
   right: 5%;
 }
 #cc {
   position: absolute;
   font-weight: normal;
   font-size: 50%;
-  bottom: 3%;
+  bottom: 5%;
 }
