@@ -86,7 +86,8 @@ function update_postit() {
 					//move this stuff into new function, for calling in an onclick callback
 		var row = (bucket_list_data.feed.entry.length/3)-1;
 
-		var randRow = getRandomInt(1, row+2);
+		var randRow = getRandomInt(1, row+3);
+		console.log(randRow);
 
 		var realRandRow = randRow*3 -1;
 
